@@ -61,7 +61,7 @@ To run these Java programs on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Grant6551/Java-OOP-Learning.git
+   git clone https://github.com/Grant6551/Java-OOP-Programs.git
    cd java-oop-learning
    ```
 
